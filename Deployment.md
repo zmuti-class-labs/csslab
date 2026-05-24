@@ -32,5 +32,6 @@ Wait ~1 minute and visit the link to see your live site!
 _**📝 Reminder**_
 
 **This link is what you will submit for grading**
+
 **Ensure you have index.html as the main page**
 
