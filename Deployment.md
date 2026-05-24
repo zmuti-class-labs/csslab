@@ -1,5 +1,5 @@
 Deployment Guide: GitHub Pages
-Follow these steps to deploy your CSS lab project using GitHub Pages so your instructor can view your live site.
+Follow these steps to deploy your lab project using GitHub Pages so your instructor can view your live site.
 
 **Step 1: Create GitHub Repository**
 
@@ -32,4 +32,5 @@ Wait ~1 minute and visit the link to see your live site!
 _**📝 Reminder**_
 
 **This link is what you will submit for grading**
+**Ensure you have index.html as the main page**
 
